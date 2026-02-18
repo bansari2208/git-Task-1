@@ -1,1 +1,1 @@
-This is LOCAL version for conflict test.
+This file contains both local and remote conflict changes resolved.
